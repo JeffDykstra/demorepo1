@@ -1,3 +1,3 @@
 'hello world'
 'some new line'
-'make breaking changes'
+'make breaking change'
